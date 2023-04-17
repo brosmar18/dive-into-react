@@ -14,3 +14,9 @@ To make a React element a DOM element, you can use the ReactDOM.render() method.
 
 ## React is a User Interface ______.
 React is a User Interface library.
+
+## Which direction does data flow in React?
+In React, data flows from parent components to their children components. This is known as a top-down or unidirectional data flow.
+
+## Every component manages its own ____.
+Every component manages its own state. State is an object that stores data that can change over time and can affect the rendering of the component. By managing its own state, each component can be thought of as a self-contained unit of functionality.
